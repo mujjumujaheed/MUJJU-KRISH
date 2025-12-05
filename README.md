@@ -1,2 +1,3 @@
-# MUJJU-Kunta
+# MUJJU
+
 NEW PROJECT
